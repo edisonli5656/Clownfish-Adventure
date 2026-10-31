@@ -5,9 +5,11 @@ A fun ocean game made in Scratch: guide the clownfish, eat smaller fish to grow,
 **Play it here:** https://edisonli5656.github.io/Clownfish-Adventure/
 
 ## How to play
-- Press the green flag to start.
+- Click or tap the screen to start.
 - Move the mouse (or drag your finger on a phone) — the clownfish follows.
-- Eat fish smaller than you to grow. Watch out for bigger fish!
+- Eat fish smaller than you to grow and score points.
+- Bigger fish will eat you! You have 3 lives (you flash and are safe for a moment after losing one).
+- The bigger you get, the more big fish appear. Reach size 100 to win!
 
 ## Install on your phone
 Open the link above, then:
