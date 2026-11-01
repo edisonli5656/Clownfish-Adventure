@@ -2,7 +2,13 @@
 
 A fun ocean game made in Scratch: guide the clownfish, eat smaller fish to grow, and avoid the bigger ones!
 
-**Play it here:** https://edisonli5656.github.io/Clownfish-Adventure/
+### [▶ Play it now in your browser](https://edisonli5656.github.io/Clownfish-Adventure/)
+Works on computers, phones and tablets. Nothing to download.
+
+<p>
+  <img src="screenshots/start.jpg" width="420" alt="Clownfish Adventure start screen">
+  <img src="screenshots/gameplay.jpg" width="420" alt="Clownfish Adventure gameplay">
+</p>
 
 ## How to play
 - Click or tap the screen to start.
